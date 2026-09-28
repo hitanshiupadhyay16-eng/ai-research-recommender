@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-paper: #F7F6F2;
+  --color-ink: #1B2E28;
+  --color-gold: #B8862E;
+  --color-sage: #5C7A6E;
+  --color-text: #20241F;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--color-paper);
+  color: var(--color-text);
+}
+
+h1, h2, h3, .font-serif-custom {
+  font-family: 'Source Serif 4', serif;
+}

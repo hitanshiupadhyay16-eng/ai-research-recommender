@@ -1,0 +1,6 @@
+student_id,name,skills,interests,cgpa,career_goal
+1,Aman Sharma,"Python, Machine Learning, SQL","Natural Language Processing, Chatbots",8.2,Research
+2,Priya Verma,"HTML, CSS, JavaScript, React","Web Development, UI/UX",7.9,Industry
+3,Rohit Singh,"Python, TensorFlow, OpenCV","Computer Vision, Deep Learning",8.6,Research
+4,Sneha Patil,"Networking, Linux, Python","Cybersecurity, Ethical Hacking",7.5,Industry
+5,Karan Mehta,"Java, Spring Boot, MySQL","Backend Development, Cloud Computing",8.0,Startup
