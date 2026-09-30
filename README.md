@@ -46,6 +46,25 @@ flowchart LR
 
 No model is fine-tuned. Using a pretrained embedding model with similarity search keeps the results explainable and easy to verify.
 
+## Screenshots
+
+<table>
+<tr>
+<td><b>Home</b><br><img src="home.png.png" width="400"/></td>
+<td><b>Sign up</b><br><img src="signup.png.png" width="400"/></td>
+</tr>
+<tr>
+<td><b>Login</b><br><img src="login.png.png" width="400"/></td>
+<td><b>Profile setup</b><br><img src="profile-setup.png.png" width="400"/></td>
+</tr>
+<tr>
+<td><b>Dashboard</b><br><img src="dashboard.png.png" width="400"/></td>
+<td><b>Recommendations</b><br><img src="recommendation.png.png" width="400"/></td>
+</tr>
+</table>
+
+<p align="center"><b>Saved papers</b><br><img src="saved.png.png" width="500"/></p>
+
 ## Tech stack
 
 | Layer | Tools |
